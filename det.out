@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2021-11-20 10:41:32 by Eclipse SUMO GUI Version 1.10.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="/home/tcikel/Sumo/2021-11-16-23-21-53/test/new.net.xml"/>
+        <route-files value="/home/tcikel/Sumo/2021-11-16-23-21-53/test/new.rou.xml"/>
+        <additional-files value="/home/tcikel/Sumo/2021-11-16-23-21-53/test/new.add.xml"/>
+    </input>
+
+</configuration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e1_file.xsd">
+    <interval begin="0.00" end="305.00" id="det_0" nVehContrib="8" flow="94.43" occupancy="17.37" speed="4.90" harmonicMeanSpeed="0.75" length="5.00" nVehEntered="8"/>
+</detector>

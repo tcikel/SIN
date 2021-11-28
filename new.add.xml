@@ -1,0 +1,54 @@
+<additionals> 
+    <rerouter id="rerouter_0" edges="e2" probability="1">
+        <interval begin="10" end="10000">
+            <destProbReroute id="e5"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rerouter_1" edges="e2" probability="1">
+        <interval begin="10" end="10000">
+            <destProbReroute id="e4"/>
+        </interval>
+    </rerouter>
+
+    <inductionLoop id="det_0" lane="e5_0" pos="83" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_1" lane="e5_0" pos="15" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_2" lane="e5_1" pos="83" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_3" lane="e5_1" pos="15" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_4" lane="e5_2" pos="83" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_5" lane="e5_2" pos="15" freq="500" file="det.out.xml" />
+
+
+
+    <inductionLoop id="det_6" lane="e3_0" pos="83" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_7" lane="e3_0" pos="15" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_8" lane="e3_1" pos="83" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_9" lane="e3_1" pos="15" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_10" lane="e3_2" pos="83" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_11" lane="e3_2" pos="15" freq="500" file="det.out.xml" />
+
+
+
+    <inductionLoop id="det_12" lane="e7_0" pos="83" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_13" lane="e7_0" pos="15" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_14" lane="e7_1" pos="83" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_15" lane="e7_1" pos="15" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_16" lane="e7_2" pos="83" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_17" lane="e7_2" pos="15" freq="500" file="det.out.xml" />
+
+    <inductionLoop id="det_18" lane="e1_0" pos="83" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_19" lane="e1_0" pos="15" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_20" lane="e1_1" pos="83" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_21" lane="e1_1" pos="15" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_22" lane="e1_2" pos="83" freq="500" file="det.out.xml" />
+    <inductionLoop id="det_23" lane="e1_2" pos="15" freq="500" file="det.out.xml" />
+
+
+
+
+
+
+
+
+
+
+</additionals>
